@@ -34,7 +34,7 @@ A simple task management mobile app built with **React Native** and **Express.js
 
 ```bash
 git clone https://github.com/amitdhiman07/TodoApp.git
-cd task-manager-app
+cd TaskApp
 ```
 
 ### 2. Install dependencies
