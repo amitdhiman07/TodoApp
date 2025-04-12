@@ -79,20 +79,6 @@ Make sure PostgreSQL is running and you’ve created a database (with a `Task` m
 
 ---
 
-## 📁 Folder Structure
-
-```
-├── assets/
-│   └── images/
-├── components/
-│   └── TaskScreen.tsx
-├── App.tsx
-├── Home.tsx
-├── server/
-│   └── index.js
-├── README.md
-└── package.json
-```
 
 ---
 
