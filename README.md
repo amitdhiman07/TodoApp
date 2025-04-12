@@ -70,7 +70,9 @@ npm install express sequelize pg pg-hstore cors
 ### Run backend server
 
 ```bash
-node index.js
+node server.js 
+or
+nodemon server.js
 ```
 
 Make sure PostgreSQL is running and you’ve created a database (with a `Task` model).
